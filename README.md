@@ -9,35 +9,6 @@ Languages used: Java and Python
 ## Navigation
 
 - Easy
+    - [Sum of Even Numbers After Queries](Easy/SumOfEvenNumbersAfterQueries)
 - Medium
 - Hard
-
----
-
-## Easy
-
-### Template
-
-#### Problem:
-
-#### Solution:
-
----
-
-## Medium
-
-### Template
-
-#### Problem:
-
-#### Solution:
-
----
-
-## Hard
-
-### Template
-
-#### Problem:
-
-#### Solution:
