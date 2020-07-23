@@ -11,4 +11,5 @@ Languages used: Java and Python
 - Easy
     - [Sum of Even Numbers After Queries](Easy/SumOfEvenNumbersAfterQueries)
 - Medium
+    - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
 - Hard
