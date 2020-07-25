@@ -10,7 +10,8 @@ Languages used: Java and Python
 
 - Easy
     - [Sum of Even Numbers After Queries](Easy/SumOfEvenNumbersAfterQueries)
-    - [NextGreaterElement1](Easy/NextGreaterElement1)
+    - [Next Greater Element 1](Easy/NextGreaterElement1)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
+    - [Distribute Coins in Binary Tree](#Medium/DistributionCoinsInBinaryTree)
 - Hard
