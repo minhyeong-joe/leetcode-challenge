@@ -11,6 +11,7 @@ Languages used: Java and Python
 - Easy
     - [Sum of Even Numbers After Queries](Easy/SumOfEvenNumbersAfterQueries)
     - [Next Greater Element 1](Easy/NextGreaterElement1)
+    - [Longest Common Prefix](Easy/LongestCommonPrefix)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](#Medium/DistributionCoinsInBinaryTree)
