@@ -14,4 +14,5 @@ Languages used: Java and Python
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](#Medium/DistributionCoinsInBinaryTree)
+    - [Find Minimum Number of Fibonacci Numbers Whose Sum is K](#Medium/FindMinNumFibNumSumK)
 - Hard
