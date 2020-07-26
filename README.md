@@ -15,8 +15,9 @@ Languages used: Java and Python
     - [Intersection of Two Arrays](Easy/IntersectionOfTwoArrays)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
-    - [Distribute Coins in Binary Tree](#Medium/DistributionCoinsInBinaryTree)
-    - [Find Minimum Number of Fibonacci Numbers Whose Sum is K](#Medium/FindMinNumFibNumSumK)
+    - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
+    - [Find Minimum Number of Fibonacci Numbers Whose Sum is K](Medium/FindMinNumFibNumSumK)
+    - [Find the Duplicate Number](Medium/FindDuplicateNumber)
 - Hard
 
 ---
