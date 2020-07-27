@@ -13,6 +13,7 @@ Languages used: Java and Python
     - [Next Greater Element 1](Easy/NextGreaterElement1)
     - [Longest Common Prefix](Easy/LongestCommonPrefix)
     - [Intersection of Two Arrays](Easy/IntersectionOfTwoArrays)
+    - [Backspace String Compare](Easy/BackspaceStringCompare)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
