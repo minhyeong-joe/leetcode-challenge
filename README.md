@@ -14,6 +14,7 @@ Languages used: Java and Python
     - [Longest Common Prefix](Easy/LongestCommonPrefix)
     - [Intersection of Two Arrays](Easy/IntersectionOfTwoArrays)
     - [Backspace String Compare](Easy/BackspaceStringCompare)
+    - [Merge Two Sorted Lists](Easy/MergeTwoSortedLists)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
