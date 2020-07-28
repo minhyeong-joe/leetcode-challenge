@@ -21,6 +21,7 @@ Languages used: Java and Python
     - [Find Minimum Number of Fibonacci Numbers Whose Sum is K](Medium/FindMinNumFibNumSumK)
     - [Find the Duplicate Number](Medium/FindDuplicateNumber)
     - [Unique Paths](Medium/UniquePaths)
+    - [Apply Discount Every n Orders](Medium/ApplyDiscountEveryNOrders)
 - Hard
 
 ---
