@@ -15,6 +15,7 @@ Languages used: Java and Python
     - [Intersection of Two Arrays](Easy/IntersectionOfTwoArrays)
     - [Backspace String Compare](Easy/BackspaceStringCompare)
     - [Merge Two Sorted Lists](Easy/MergeTwoSortedLists)
+    - [Climbing Stairs](Easy/ClimbingStairs)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
@@ -22,6 +23,7 @@ Languages used: Java and Python
     - [Find the Duplicate Number](Medium/FindDuplicateNumber)
     - [Unique Paths](Medium/UniquePaths)
     - [Apply Discount Every n Orders](Medium/ApplyDiscountEveryNOrders)
+    - [All Elements in Two Binary Search Trees](Medium/AllElementsInTwoBSTs)
 - Hard
 
 ---
