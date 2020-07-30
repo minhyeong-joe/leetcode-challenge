@@ -25,6 +25,7 @@ Languages used: Java and Python
     - [Unique Paths](Medium/UniquePaths)
     - [Apply Discount Every n Orders](Medium/ApplyDiscountEveryNOrders)
     - [All Elements in Two Binary Search Trees](Medium/AllElementsInTwoBSTs)
+    - [Elimination Game](Medium/EliminationGame)
 - Hard
 
 ---
