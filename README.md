@@ -16,6 +16,7 @@ Languages used: Java and Python
     - [Backspace String Compare](Easy/BackspaceStringCompare)
     - [Merge Two Sorted Lists](Easy/MergeTwoSortedLists)
     - [Climbing Stairs](Easy/ClimbingStairs)
+    - [Fair Candy Swap](Easy/FairCandySwap)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
