@@ -17,6 +17,7 @@ Languages used: Java and Python
     - [Merge Two Sorted Lists](Easy/MergeTwoSortedLists)
     - [Climbing Stairs](Easy/ClimbingStairs)
     - [Fair Candy Swap](Easy/FairCandySwap)
+    - [Maximize Distance to Closest Person](Easy/MaximizeDistanceToClosestPerson)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
@@ -26,6 +27,7 @@ Languages used: Java and Python
     - [Apply Discount Every n Orders](Medium/ApplyDiscountEveryNOrders)
     - [All Elements in Two Binary Search Trees](Medium/AllElementsInTwoBSTs)
     - [Elimination Game](Medium/EliminationGame)
+    - [Increasing Triplet Subsequence](Medium/IncreasingTripletSubsequence)
 - Hard
 
 ---
