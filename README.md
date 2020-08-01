@@ -28,6 +28,7 @@ Languages used: Java and Python
     - [All Elements in Two Binary Search Trees](Medium/AllElementsInTwoBSTs)
     - [Elimination Game](Medium/EliminationGame)
     - [Increasing Triplet Subsequence](Medium/IncreasingTripletSubsequence)
+    - [Design Browser History](Medium/DesignBrowserHistory)
 - Hard
 
 ---
