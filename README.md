@@ -18,7 +18,11 @@ Languages used: Java and Python
     - [Climbing Stairs](Easy/ClimbingStairs)
     - [Fair Candy Swap](Easy/FairCandySwap)
     - [Maximize Distance to Closest Person](Easy/MaximizeDistanceToClosestPerson)
+<<<<<<< HEAD
     - [Third Maximum Number](Easy/ThirdMaximumNumber)
+=======
+    - [Find Common Characters](Easy/FindCommonCharacters)
+>>>>>>> 6878dab5d11141aa6cda4603ff170c888879268e
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
@@ -29,6 +33,7 @@ Languages used: Java and Python
     - [All Elements in Two Binary Search Trees](Medium/AllElementsInTwoBSTs)
     - [Elimination Game](Medium/EliminationGame)
     - [Increasing Triplet Subsequence](Medium/IncreasingTripletSubsequence)
+    - [Design Browser History](Medium/DesignBrowserHistory)
 - Hard
 
 ---
