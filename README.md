@@ -18,6 +18,7 @@ Languages used: Java and Python
     - [Climbing Stairs](Easy/ClimbingStairs)
     - [Fair Candy Swap](Easy/FairCandySwap)
     - [Maximize Distance to Closest Person](Easy/MaximizeDistanceToClosestPerson)
+    - [Third Maximum Number](Easy/ThirdMaximumNumber)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
