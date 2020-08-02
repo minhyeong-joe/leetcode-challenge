@@ -31,6 +31,7 @@ Languages used: Java and Python
     - [Elimination Game](Medium/EliminationGame)
     - [Increasing Triplet Subsequence](Medium/IncreasingTripletSubsequence)
     - [Design Browser History](Medium/DesignBrowserHistory)
+    - [Rearrange Words in a Sentence](Medium/RearrangeWordsInSentence)
 - Hard
 
 ---
