@@ -32,6 +32,7 @@ Languages used: Java and Python
     - [Increasing Triplet Subsequence](Medium/IncreasingTripletSubsequence)
     - [Design Browser History](Medium/DesignBrowserHistory)
     - [Rearrange Words in a Sentence](Medium/RearrangeWordsInSentence)
+    - [Diagonal Traverse II](Medium/DiagonalTraverse2)
 - Hard
 
 ---
