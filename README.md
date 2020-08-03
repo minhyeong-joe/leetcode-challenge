@@ -20,6 +20,7 @@ Languages used: Java and Python
     - [Maximize Distance to Closest Person](Easy/MaximizeDistanceToClosestPerson)
     - [Find Common Characters](Easy/FindCommonCharacters)
     - [Third Maximum Number](Easy/ThirdMaximumNumber)
+    - [String Matching in an Array](Easy/StringMatchingInArray)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
