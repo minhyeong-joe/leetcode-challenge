@@ -21,6 +21,7 @@ Languages used: Java and Python
     - [Find Common Characters](Easy/FindCommonCharacters)
     - [Third Maximum Number](Easy/ThirdMaximumNumber)
     - [String Matching in an Array](Easy/StringMatchingInArray)
+    - [Minimum Value to Get Positive Step by Step Sum](Easy/MinValStepSum)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
