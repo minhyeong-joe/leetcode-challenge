@@ -34,6 +34,7 @@ Languages used: Java and Python
     - [Design Browser History](Medium/DesignBrowserHistory)
     - [Rearrange Words in a Sentence](Medium/RearrangeWordsInSentence)
     - [Diagonal Traverse II](Medium/DiagonalTraverse2)
+    - [Total Hamming Distance](Medium/TotalHammingDistance)
 - Hard
 
 ---
