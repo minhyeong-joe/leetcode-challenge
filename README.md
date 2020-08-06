@@ -39,6 +39,7 @@ Languages used: Java and Python
     - [Diagonal Traverse II](Medium/DiagonalTraverse2)
     - [Total Hamming Distance](Medium/TotalHammingDistance)
     - [Partition Array into Disjoint Intervals](Medium/PartitionArrayIntoDisjointIntervals)
+    - [Search in Rotated Sorted Array](Medium/SearchInRotatedSortedArray)
 - Hard
 
 ---
