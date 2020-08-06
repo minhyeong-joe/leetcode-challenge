@@ -23,6 +23,7 @@ Languages used: Java and Python
     - [String Matching in an Array](Easy/StringMatchingInArray)
     - [Minimum Value to Get Positive Step by Step Sum](Easy/MinValStepSum)
     - [Maximum Product of Three Numbers](Easy/MaxProductofThreeNumbers)
+    - [Maximize Sum Of Array After K Negations](Easy/MaximizeSumAfterKNegations)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
