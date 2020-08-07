@@ -24,6 +24,7 @@ Languages used: Java and Python
     - [Minimum Value to Get Positive Step by Step Sum](Easy/MinValStepSum)
     - [Maximum Product of Three Numbers](Easy/MaxProductofThreeNumbers)
     - [Maximize Sum Of Array After K Negations](Easy/MaximizeSumAfterKNegations)
+    - [House Robber](Easy/HouseRobber)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
