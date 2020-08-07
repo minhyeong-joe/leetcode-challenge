@@ -40,6 +40,7 @@ Languages used: Java and Python
     - [Total Hamming Distance](Medium/TotalHammingDistance)
     - [Partition Array into Disjoint Intervals](Medium/PartitionArrayIntoDisjointIntervals)
     - [Search in Rotated Sorted Array](Medium/SearchInRotatedSortedArray)
+    - [Car Pooling](Medium/CarPooling)
 - Hard
 
 ---
