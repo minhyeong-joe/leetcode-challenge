@@ -42,6 +42,7 @@ Languages used: Java and Python
     - [Partition Array into Disjoint Intervals](Medium/PartitionArrayIntoDisjointIntervals)
     - [Search in Rotated Sorted Array](Medium/SearchInRotatedSortedArray)
     - [Car Pooling](Medium/CarPooling)
+    - [Palindromic Substrings](Medium/PalindromicSubstrings)
 - Hard
 
 ---
