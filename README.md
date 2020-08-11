@@ -45,6 +45,7 @@ Languages used: Java and Python
     - [Search in Rotated Sorted Array](Medium/SearchInRotatedSortedArray)
     - [Car Pooling](Medium/CarPooling)
     - [Palindromic Substrings](Medium/PalindromicSubstrings)
+    - [Prison Cells After N Days](Medium/PrisonCellsAfterNDays)
 - Hard
 
 ---
