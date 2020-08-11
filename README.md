@@ -26,6 +26,7 @@ Languages used: Java and Python
     - [Maximize Sum Of Array After K Negations](Easy/MaximizeSumAfterKNegations)
     - [House Robber](Easy/HouseRobber)
     - [Majority Element](Easy/MajorityElement)
+    - [Reshape the Matrix](Easy/ReshapeMatrix)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
