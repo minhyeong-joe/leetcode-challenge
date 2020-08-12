@@ -27,6 +27,7 @@ Languages used: Java and Python
     - [House Robber](Easy/HouseRobber)
     - [Majority Element](Easy/MajorityElement)
     - [Reshape the Matrix](Easy/ReshapeMatrix)
+    - [Shortest Unsorted Continuous Subarray](Easy/ShortedUnsortedContinuousSubarray)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
