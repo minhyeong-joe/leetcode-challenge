@@ -48,6 +48,7 @@ Languages used: Java and Python
     - [Palindromic Substrings](Medium/PalindromicSubstrings)
     - [Prison Cells After N Days](Medium/PrisonCellsAfterNDays)
     - [Minimum Number of Steps to Make Two Strings Anagram](Medium/MinStepsToMakeTwoStringsAnagram)
+    - [Maximum Length of Pair Chain](Medium/MaximumLengthPairChain)
 - Hard
 
 ---
