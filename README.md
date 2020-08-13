@@ -47,6 +47,7 @@ Languages used: Java and Python
     - [Car Pooling](Medium/CarPooling)
     - [Palindromic Substrings](Medium/PalindromicSubstrings)
     - [Prison Cells After N Days](Medium/PrisonCellsAfterNDays)
+    - [Minimum Number of Steps to Make Two Strings Anagram](Medium/MinStepsToMakeTwoStringsAnagram)
 - Hard
 
 ---
