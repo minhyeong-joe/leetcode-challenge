@@ -28,6 +28,7 @@ Languages used: Java and Python
     - [Majority Element](Easy/MajorityElement)
     - [Reshape the Matrix](Easy/ReshapeMatrix)
     - [Shortest Unsorted Continuous Subarray](Easy/ShortedUnsortedContinuousSubarray)
+    - [Find Lucky Integer in an Array](Easy/FindLuckyIntegerInArray)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)

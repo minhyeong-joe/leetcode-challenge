@@ -1,3 +1,5 @@
+package Easy.ShortedUnsortedContinuousSubarray;
+
 import java.util.Arrays;
 
 // Sort array and check the length of unmatching subarray
