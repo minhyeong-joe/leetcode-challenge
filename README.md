@@ -57,6 +57,7 @@ Languages used: Java and Python
     - [Linked List Cycle II](Medium/LinkedListCycle2)
     - [Swap Nodes in Pairs](Medium/SwapNodesInPairs)
     - [All Paths From Source to Target](Medium/AllPathsFromSrcToTarget)
+    - [Queens That Can Attack The King](Medium/QueensThatCanAttackKing)
 - Hard
 
 ---
