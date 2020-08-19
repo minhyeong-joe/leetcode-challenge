@@ -54,6 +54,7 @@ Languages used: Java and Python
     - [Maximum Length of Pair Chain](Medium/MaximumLengthPairChain)
     - [Linked List Cycle II](Medium/LinkedListCycle2)
     - [Swap Nodes in Pairs](Medium/SwapNodesInPairs)
+    - [All Paths From Source to Target](Medium/AllPathsFromSrcToTarget)
 - Hard
 
 ---
