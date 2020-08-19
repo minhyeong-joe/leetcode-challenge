@@ -32,6 +32,7 @@ Languages used: Java and Python
     - [N-Repeated Element in Size 2N Array](Easy/N_RepeatedElementInArray)
     - [Sort Array By Parity](Easy/SortArrayByParity)
     - [Isomorphic Strings](Easy/IsomorphicStrings)
+    - [Binary Prefix Divisible By 5](Easy/BinaryPrefixDivBy5)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
