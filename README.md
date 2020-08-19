@@ -31,6 +31,7 @@ Languages used: Java and Python
     - [Find Lucky Integer in an Array](Easy/FindLuckyIntegerInArray)
     - [N-Repeated Element in Size 2N Array](Easy/N_RepeatedElementInArray)
     - [Sort Array By Parity](Easy/SortArrayByParity)
+    - [Isomorphic Strings](Easy/IsomorphicStrings)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
