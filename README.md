@@ -59,6 +59,7 @@ Languages used: Java and Python
     - [Swap Nodes in Pairs](Medium/SwapNodesInPairs)
     - [All Paths From Source to Target](Medium/AllPathsFromSrcToTarget)
     - [Queens That Can Attack The King](Medium/QueensThatCanAttackKing)
+    - [Reverse Substrings Between Each Pair of Parentheses](Medium/ReverseSubstringsBetweenParentheses)
 - Hard
 
 ---
