@@ -34,6 +34,7 @@ Languages used: Java and Python
     - [Isomorphic Strings](Easy/IsomorphicStrings)
     - [Binary Prefix Divisible By 5](Easy/BinaryPrefixDivBy5)
     - [Rank Transform of an Array](Easy/RankTransformArray)
+    - [Add to Array-Form of Integer](Easy/AddToArrayFormInteger)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
