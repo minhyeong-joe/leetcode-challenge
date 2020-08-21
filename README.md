@@ -61,6 +61,7 @@ Languages used: Java and Python
     - [All Paths From Source to Target](Medium/AllPathsFromSrcToTarget)
     - [Queens That Can Attack The King](Medium/QueensThatCanAttackKing)
     - [Reverse Substrings Between Each Pair of Parentheses](Medium/ReverseSubstringsBetweenParentheses)
+    - [Asteroid Collision](Medium/AsteroidCollision)
 - Hard
     - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
 
