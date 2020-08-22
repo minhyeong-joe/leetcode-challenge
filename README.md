@@ -62,6 +62,7 @@ Languages used: Java and Python
     - [Queens That Can Attack The King](Medium/QueensThatCanAttackKing)
     - [Reverse Substrings Between Each Pair of Parentheses](Medium/ReverseSubstringsBetweenParentheses)
     - [Asteroid Collision](Medium/AsteroidCollision)
+    - [Surrounded Regions](Medium/SurroundedRegions)
 - Hard
     - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
     - [Reducing Dishes](Hard/ReducingDishes)
