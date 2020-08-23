@@ -64,6 +64,7 @@ Languages used: Java and Python
     - [Reverse Substrings Between Each Pair of Parentheses](Medium/ReverseSubstringsBetweenParentheses)
     - [Asteroid Collision](Medium/AsteroidCollision)
     - [Surrounded Regions](Medium/SurroundedRegions)
+    - [Predict the Winner](Medium/PredictWinner)
 - Hard
     - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
     - [Reducing Dishes](Hard/ReducingDishes)
