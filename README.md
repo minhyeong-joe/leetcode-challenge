@@ -67,6 +67,7 @@ Languages used: Java and Python
 - Hard
     - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
     - [Reducing Dishes](Hard/ReducingDishes)
+    - [Longest Consecutive Sequence](Hard/LongestConsecutiveSequence)
 
 ---
 
