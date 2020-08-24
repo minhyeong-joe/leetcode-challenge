@@ -67,6 +67,7 @@ Languages used: Java and Python
     - [Asteroid Collision](Medium/AsteroidCollision)
     - [Surrounded Regions](Medium/SurroundedRegions)
     - [Predict the Winner](Medium/PredictWinner)
+    - [Subarray Sum Equals K](Medium/SubarraySumEqualsK)
 - Hard
     - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
     - [Reducing Dishes](Hard/ReducingDishes)
