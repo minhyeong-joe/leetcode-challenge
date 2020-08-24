@@ -37,6 +37,7 @@ Languages used: Java and Python
     - [Add to Array-Form of Integer](Easy/AddToArrayFormInteger)
     - [Sqrt(x)](Easy/SqrtX)
     - [Shuffle the Array](Easy/ShuffleArray)
+    - [Remove Duplicates from Sorted List](Easy/RemoveDuplicatesFromSortedList)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
