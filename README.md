@@ -69,6 +69,7 @@ Languages used: Java and Python
     - [Surrounded Regions](Medium/SurroundedRegions)
     - [Predict the Winner](Medium/PredictWinner)
     - [Subarray Sum Equals K](Medium/SubarraySumEqualsK)
+    - [Find Minimum in Rotated Sorted Array](Medium/FindMinInRotatedSortedArray)
 - Hard
     - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
     - [Reducing Dishes](Hard/ReducingDishes)
