@@ -38,6 +38,7 @@ Languages used: Java and Python
     - [Sqrt(x)](Easy/SqrtX)
     - [Shuffle the Array](Easy/ShuffleArray)
     - [Remove Duplicates from Sorted List](Easy/RemoveDuplicatesFromSortedList)
+    - [Longest Continuous Increasing Subsequence](Easy/LongestIncreasingSubsequence)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
