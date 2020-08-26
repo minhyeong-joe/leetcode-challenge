@@ -39,6 +39,7 @@ Languages used: Java and Python
     - [Shuffle the Array](Easy/ShuffleArray)
     - [Remove Duplicates from Sorted List](Easy/RemoveDuplicatesFromSortedList)
     - [Longest Continuous Increasing Subsequence](Easy/LongestIncreasingSubsequence)
+    - [Happy Number](Easy/HappyNumber)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
