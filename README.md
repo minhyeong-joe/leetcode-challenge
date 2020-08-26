@@ -77,6 +77,7 @@ Languages used: Java and Python
     - [Reducing Dishes](Hard/ReducingDishes)
     - [Longest Consecutive Sequence](Hard/LongestConsecutiveSequence)
     - [First Missing Positive](Hard/FirstMissingPositive)
+    - [Insert Interval](Hard/InsertInterval)
 
 ---
 
