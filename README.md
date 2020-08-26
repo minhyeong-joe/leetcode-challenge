@@ -71,6 +71,7 @@ Languages used: Java and Python
     - [Predict the Winner](Medium/PredictWinner)
     - [Subarray Sum Equals K](Medium/SubarraySumEqualsK)
     - [Find Minimum in Rotated Sorted Array](Medium/FindMinInRotatedSortedArray)
+    - [Maximum Swap](Medium/MaximumSwap)
 - Hard
     - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
     - [Reducing Dishes](Hard/ReducingDishes)
