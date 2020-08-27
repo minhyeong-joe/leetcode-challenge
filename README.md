@@ -78,6 +78,7 @@ Languages used: Java and Python
     - [Longest Consecutive Sequence](Hard/LongestConsecutiveSequence)
     - [First Missing Positive](Hard/FirstMissingPositive)
     - [Insert Interval](Hard/InsertInterval)
+    - [Find Median From Data Stream](Hard/FindMedianFromDataStream)
 
 ---
 
