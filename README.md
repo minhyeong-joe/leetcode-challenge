@@ -72,6 +72,7 @@ Languages used: Java and Python
     - [Subarray Sum Equals K](Medium/SubarraySumEqualsK)
     - [Find Minimum in Rotated Sorted Array](Medium/FindMinInRotatedSortedArray)
     - [Maximum Swap](Medium/MaximumSwap)
+    - [Number of Operations to Make Network Connected](Medium/NumToMakeNetworkConnected)
 - Hard
     - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
     - [Reducing Dishes](Hard/ReducingDishes)
