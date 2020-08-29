@@ -74,6 +74,7 @@ Languages used: Java and Python
     - [Find Minimum in Rotated Sorted Array](Medium/FindMinInRotatedSortedArray)
     - [Maximum Swap](Medium/MaximumSwap)
     - [Number of Operations to Make Network Connected](Medium/NumToMakeNetworkConnected)
+    - [Sort Colors](Medium/SortColors)
 - Hard
     - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
     - [Reducing Dishes](Hard/ReducingDishes)
