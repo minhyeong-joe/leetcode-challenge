@@ -41,6 +41,7 @@ Languages used: Java and Python
     - [Longest Continuous Increasing Subsequence](Easy/LongestIncreasingSubsequence)
     - [Happy Number](Easy/HappyNumber)
     - [Assign Cookies](Easy/AssignCookies)
+    - [Rotate Array](Easy/RotateArray)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
