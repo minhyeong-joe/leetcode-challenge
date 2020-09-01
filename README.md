@@ -76,6 +76,7 @@ Languages used: Java and Python
     - [Maximum Swap](Medium/MaximumSwap)
     - [Number of Operations to Make Network Connected](Medium/NumToMakeNetworkConnected)
     - [Sort Colors](Medium/SortColors)
+    - [Design Linked List](Medium/DesignLinkedList)
 - Hard
     - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
     - [Reducing Dishes](Hard/ReducingDishes)
