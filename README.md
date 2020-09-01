@@ -42,6 +42,7 @@ Languages used: Java and Python
     - [Happy Number](Easy/HappyNumber)
     - [Assign Cookies](Easy/AssignCookies)
     - [Rotate Array](Easy/RotateArray)
+    - [N-ary Tree Postorder Traversal](Easy/NaryTreePostorderTraversal)
 - Medium
     - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
     - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
