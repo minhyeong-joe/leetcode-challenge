@@ -78,6 +78,7 @@ Languages used: Java and Python
     - [Number of Operations to Make Network Connected](Medium/NumToMakeNetworkConnected)
     - [Sort Colors](Medium/SortColors)
     - [Design Linked List](Medium/DesignLinkedList)
+    - [Single Number II](Medium/SingleNumber2)
 - Hard
     - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
     - [Reducing Dishes](Hard/ReducingDishes)

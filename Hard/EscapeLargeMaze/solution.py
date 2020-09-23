@@ -9,8 +9,8 @@ class Solution:
         visited = set()
         queue.append(source)
         while queue:
-            print("queue:", queue)
-            print("visited:", visited)
+            # print("queue:", queue)
+            # print("visited:", visited)
             currentCoord = queue.pop(0)
             if currentCoord == target:
                 return True
@@ -30,7 +30,7 @@ class Solution:
 
 # test driver
 sol = Solution()
-blocked = [[1,2], [0,2], [2,2]]
+blocked = []
 source = [0,0]
-target = [3,3]
+target = [9, 9]
 print("Output:", sol.isEscapePossible(blocked, source, target))
