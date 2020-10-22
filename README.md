@@ -79,6 +79,7 @@ Languages used: Java and Python
     - [Sort Colors](Medium/SortColors)
     - [Design Linked List](Medium/DesignLinkedList)
     - [Single Number II](Medium/SingleNumber2)
+    - [Count Square Submatrices with All Ones](Medium/CountSquareWithOnes)
 - Hard
     - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
     - [Reducing Dishes](Hard/ReducingDishes)
