@@ -80,6 +80,7 @@ Languages used: Java and Python
     - [Design Linked List](Medium/DesignLinkedList)
     - [Single Number II](Medium/SingleNumber2)
     - [Count Square Submatrices with All Ones](Medium/CountSquareWithOnes)
+    - [Divide Array is Sets of K Consecutive Numbers](Medium/DivideArrayInKConsecNums)
 - Hard
     - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
     - [Reducing Dishes](Hard/ReducingDishes)
