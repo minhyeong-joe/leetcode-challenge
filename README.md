@@ -82,6 +82,7 @@ Languages used: Java and Python
   - [Count Square Submatrices with All Ones](Medium/CountSquareWithOnes)
   - [Divide Array is Sets of K Consecutive Numbers](Medium/DivideArrayInKConsecNums)
   - [Perfect Squares](Medium/PerfectSquares)
+  - [Score After Flipping Matrix](Medium/ScoreAfterFlippingMatrix)
 - Hard
   - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
   - [Reducing Dishes](Hard/ReducingDishes)
