@@ -84,6 +84,7 @@ Languages used: Java and Python
   - [Perfect Squares](Medium/PerfectSquares)
   - [Score After Flipping Matrix](Medium/ScoreAfterFlippingMatrix)
   - [Construct Binary Tree from Preorder and Inorder Traversal](Medium/ConstructBinaryTree)
+  - [K Closest Points to Origin](Medium/KClosestPointsToOrigin)
 - Hard
   - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
   - [Reducing Dishes](Hard/ReducingDishes)
