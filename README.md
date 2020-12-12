@@ -85,6 +85,7 @@ Languages used: Java and Python
   - [Score After Flipping Matrix](Medium/ScoreAfterFlippingMatrix)
   - [Construct Binary Tree from Preorder and Inorder Traversal](Medium/ConstructBinaryTree)
   - [K Closest Points to Origin](Medium/KClosestPointsToOrigin)
+  - [Number of Islands](Medium/NumberOfIslands)
 - Hard
   - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
   - [Reducing Dishes](Hard/ReducingDishes)
