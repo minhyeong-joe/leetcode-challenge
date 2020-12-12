@@ -83,6 +83,7 @@ Languages used: Java and Python
   - [Divide Array is Sets of K Consecutive Numbers](Medium/DivideArrayInKConsecNums)
   - [Perfect Squares](Medium/PerfectSquares)
   - [Score After Flipping Matrix](Medium/ScoreAfterFlippingMatrix)
+  - [Construct Binary Tree from Preorder and Inorder Traversal](Medium/ConstructBinaryTree)
 - Hard
   - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
   - [Reducing Dishes](Hard/ReducingDishes)
