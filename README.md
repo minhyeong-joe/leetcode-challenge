@@ -92,6 +92,7 @@ Languages used: Java and Python
   - [Insert Interval](Hard/InsertInterval)
   - [Find Median From Data Stream](Hard/FindMedianFromDataStream)
   - [Escape a Large Maze](Hard/EscapeLargeMaze)
+  - [Serialize and Deserialize Binary Tree](Hard/SerializeAndDeserializeBinaryTree)
 
 ---
 
