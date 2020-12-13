@@ -93,6 +93,9 @@ Languages used: Java and Python
   - [Binary Tree Postorder Traversal](Medium/BinaryPostorder)
   - [Reconstruct Itinerary](Medium/ReconstructItinerary)
   - [Course Schedule II](Medium/CourseSchedule2)
+  - [Permutations](Medium/Permutations)
+  - [Permutations II](Medium/Permutations2)
+  - [Combinations](Medium/Combinations)
 - Hard
 
   - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
@@ -103,6 +106,7 @@ Languages used: Java and Python
   - [Find Median From Data Stream](Hard/FindMedianFromDataStream)
   - [Escape a Large Maze](Hard/EscapeLargeMaze)
   - [Serialize and Deserialize Binary Tree](Hard/SerializeAndDeserializeBinaryTree)
+  - [Permutation Sequence](Hard/PermutationSequence)
 
 - Others (Non-leetcode)
   - [Check Valid Tree Given Edges](Others/CheckValidTreeGivenEdges)
