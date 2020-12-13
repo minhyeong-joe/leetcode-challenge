@@ -48,7 +48,7 @@ Languages used: Java and Python
   - [Invert Binary Tree](Easy/InvertBinaryTree)
 - Medium
   - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
-  - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
+  - [Distribute Coins in Binary Tree](Medium/DistributeCoinsInBinaryTree)
   - [Find Minimum Number of Fibonacci Numbers Whose Sum is K](Medium/FindMinNumFibNumSumK)
   - [Find the Duplicate Number](Medium/FindDuplicateNumber)
   - [Unique Paths](Medium/UniquePaths)
@@ -91,6 +91,8 @@ Languages used: Java and Python
   - [Number of Islands](Medium/NumberOfIslands)
   - [Reverse Linked List II](Medium/ReverseLinkedList2)
   - [Binary Tree Postorder Traversal](Medium/BinaryPostorder)
+  - [Reconstruct Itinerary](Medium/ReconstructItinerary)
+  - [Course Schedule II](Medium/CourseSchedule2)
 - Hard
 
   - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
