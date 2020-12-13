@@ -45,6 +45,7 @@ Languages used: Java and Python
   - [N-ary Tree Postorder Traversal](Easy/NaryTreePostorderTraversal)
   - [Pascal's Triangle](Easy/PascalsTriangle)
   - [Merge Two Binary Trees](Easy/MergeTwoBinaryTrees)
+  - [Invert Binary Tree](Easy/InvertBinaryTree)
 - Medium
   - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
   - [Distribute Coins in Binary Tree](Medium/DistributionCoinsInBinaryTree)
