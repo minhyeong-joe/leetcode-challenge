@@ -92,6 +92,7 @@ Languages used: Java and Python
   - [Reverse Linked List II](Medium/ReverseLinkedList2)
   - [Binary Tree Postorder Traversal](Medium/BinaryPostorder)
 - Hard
+
   - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
   - [Reducing Dishes](Hard/ReducingDishes)
   - [Longest Consecutive Sequence](Hard/LongestConsecutiveSequence)
@@ -100,6 +101,9 @@ Languages used: Java and Python
   - [Find Median From Data Stream](Hard/FindMedianFromDataStream)
   - [Escape a Large Maze](Hard/EscapeLargeMaze)
   - [Serialize and Deserialize Binary Tree](Hard/SerializeAndDeserializeBinaryTree)
+
+- Others (Non-leetcode)
+  - [Check Valid Tree Given Edges](Others/CheckValidTreeGivenEdges)
 
 ---
 
