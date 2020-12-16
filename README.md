@@ -47,6 +47,7 @@ Languages used: Java and Python
   - [Merge Two Binary Trees](Easy/MergeTwoBinaryTrees)
   - [Invert Binary Tree](Easy/InvertBinaryTree)
 - Medium
+
   - [Minimum Add to Make Parentheses Valid](Medium/MinimumAddtoMakeParenthesesValid)
   - [Distribute Coins in Binary Tree](Medium/DistributeCoinsInBinaryTree)
   - [Find Minimum Number of Fibonacci Numbers Whose Sum is K](Medium/FindMinNumFibNumSumK)
@@ -96,6 +97,8 @@ Languages used: Java and Python
   - [Permutations](Medium/Permutations)
   - [Permutations II](Medium/Permutations2)
   - [Combinations](Medium/Combinations)
+  - [Longest Palindromic Substring](Medium/LongestPalindromicSubstring)
+
 - Hard
 
   - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
