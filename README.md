@@ -96,6 +96,7 @@ Languages used: Java and Python
   - [Permutations](Medium/Permutations)
   - [Permutations II](Medium/Permutations2)
   - [Combinations](Medium/Combinations)
+  - [Container With Most Water](Medium/ContainerWithMostWater)
 - Hard
 
   - [Maximum Score Words Formed by Letters](Hard/MaximumScoreWords)
@@ -107,6 +108,7 @@ Languages used: Java and Python
   - [Escape a Large Maze](Hard/EscapeLargeMaze)
   - [Serialize and Deserialize Binary Tree](Hard/SerializeAndDeserializeBinaryTree)
   - [Permutation Sequence](Hard/PermutationSequence)
+  - [Regular Expression Matching](Hard/RegexMatching)
 
 - Others (Non-leetcode)
   - [Check Valid Tree Given Edges](Others/CheckValidTreeGivenEdges)
