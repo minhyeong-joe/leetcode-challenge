@@ -11,7 +11,6 @@ Languages used: Java and Python
 ### [Array](./Array)
 
 - [Add to Array-Form of Integer](Array/AddToArrayFormInteger)
-- [Binary Prefix Divisible by 5](Array/BinaryPrefixDivBy5)
 - [Container With Most Water](Array/ContainerWithMostWater)
 - [Diagonal Traverse II](Array/DiagonalTraverse2)
 - [Divide Arrays In K Consecutive Numbers](Array/DivideArrayInKConsecNums)
@@ -54,6 +53,7 @@ Languages used: Java and Python
 
 ### [Bit Manipulation](./BitManipulation)
 
+- [Binary Prefix Divisible by 5](Array/BinaryPrefixDivBy5)
 - [Single Number II](BitManipulation/SingleNumber2)
 - [Total Hamming Distance](BitManipulation/TotalHammingDistance)
 
