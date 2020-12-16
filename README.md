@@ -98,6 +98,7 @@ Languages used: Java and Python
   - [Permutations II](Medium/Permutations2)
   - [Combinations](Medium/Combinations)
   - [Longest Palindromic Substring](Medium/LongestPalindromicSubstring)
+  - [Container With Most Water](Medium/ContainerWithMostWater)
 
 - Hard
 
@@ -110,6 +111,7 @@ Languages used: Java and Python
   - [Escape a Large Maze](Hard/EscapeLargeMaze)
   - [Serialize and Deserialize Binary Tree](Hard/SerializeAndDeserializeBinaryTree)
   - [Permutation Sequence](Hard/PermutationSequence)
+  - [Regular Expression Matching](Hard/RegexMatching)
 
 - Others (Non-leetcode)
   - [Check Valid Tree Given Edges](Others/CheckValidTreeGivenEdges)
