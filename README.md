@@ -30,7 +30,6 @@ Languages used: Java and Python
 - [Majority Element](Array/MajorityElement)
 - [Maximize Distance to Closest Person](Array/MaximizeDistanceToClosestPerson)
 - [Max Product of Three Numbers](Array/MaxProductofThreeNumbers)
-- [Merge Two Sorted Lists](Array/MergeTwoSortedLists)
 - [Minimum Value to Get Positive Step by Step Sum](Array/MinValStepSum)
 - [N-Repeated Element in Size 2N Array](Array/N_RepeatedElementInArray)
 - [Next Greater Element](Array/NextGreaterElement1)
@@ -93,6 +92,7 @@ Languages used: Java and Python
 
 - [Design Linked List](LinkedList/DesignLinkedList)
 - [Linked List Cycle II](LinkedList/LinkedListCycle2)
+- [Merge Two Sorted Lists](Array/MergeTwoSortedLists)
 - [Reverse Linked List II](LinkedList/ReverseLinkedList2)
 - [Swap Nodes in Pairs](LinkedList/SwapNodesInPairs)
 
