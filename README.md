@@ -38,7 +38,6 @@ Languages used: Java and Python
 - [Prison Cells After N Days](Array/PrisonCellsAfterNDays)
 - [Queens That can Attack King](Array/QueensThatCanAttackKing)
 - [Rank Transform Array](Array/RankTransformArray)
-- [Remove Duplicates from Sorted List](Array/RemoveDuplicatesFromSortedList)
 - [Reshape the Matrix](Array/ReshapeMatrix)
 - [Rotate the Array](Array/RotateArray)
 - [Search in Rotated Sorted Array](Array/SearchInRotatedSortedArray)
@@ -77,6 +76,7 @@ Languages used: Java and Python
 - [Course Schedule II](Graph/CourseSchedule2)
 - [Escape Large Maze](Graph/EscapeLargeMaze)
 - [Number to Make Network Connected](Graph/NumToMakeNetworkConnected)
+- [Remove Duplicates from Sorted List](Array/RemoveDuplicatesFromSortedList)
 - [Reconstruct Itinerary](Graph/ReconstructItinerary)
 - [Surrounded Regions](Graph/SurroundedRegions)
 
