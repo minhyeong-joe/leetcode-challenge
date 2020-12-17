@@ -68,7 +68,9 @@ Languages used: Java and Python
 - [Predict Winner](DynamicProgramming/PredictWinner)
 - [Reducing Dishes](DynamicProgramming/ReducingDishes)
 - [Regex Matching](DynamicProgramming/RegexMatching)
+- [Unbounded Knapsack](DynamicProgramming/UnboundedKnapsack)
 - [Unique Paths](DynamicProgramming/UniquePaths)
+- [0-1 Knapsack](DynamicProgramming/ZeroOneKnapsack)
 
 ### [Graph](./Graph)
 
