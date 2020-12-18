@@ -77,6 +77,7 @@ Languages used: Java and Python
 - [All Paths From Src To Target](Graph/AllPathsFromSrcToTarget)
 - [Course Schedule II](Graph/CourseSchedule2)
 - [Escape Large Maze](Graph/EscapeLargeMaze)
+- [Minimum Cost to Repair Edges](Graph/MinCostToRepairEdges)
 - [Number to Make Network Connected](Graph/NumToMakeNetworkConnected)
 - [Remove Duplicates from Sorted List](Array/RemoveDuplicatesFromSortedList)
 - [Reconstruct Itinerary](Graph/ReconstructItinerary)
