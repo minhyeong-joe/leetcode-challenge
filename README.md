@@ -130,6 +130,7 @@ Languages used: Java and Python
 - [Minimum Steps to Make Two Strings Anagram](String/MinStepsToMakeTwoStringsAnagram)
 - [Rearrange Words in Sentence](String/RearrangeWordsInSentence)
 - [String Matching in Array](String/StringMatchingInArray)
+- [Substring with Exactly K Distinct Characters](String/SubstrWithExactKDistinctChars)
 
 ### [Tree](./Tree)
 
