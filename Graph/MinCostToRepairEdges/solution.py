@@ -1,37 +1,36 @@
 from collections import defaultdict
+import queue
 
 
-def updateCost(neighbors, b, cost):
-    for i in range(len(neighbors)):
-        if neighbors[i][0] == b:
-            neighbors[i][1] = cost
+def updateCost(arr, key, val):
+    return [(k, v) if v != val else (key, val) for (k, v) in arr]
 
 
 def minCostRepair(n, edges, edgesToRepair):
     # create edge lists associated with cost
     edgeList = defaultdict(list)
     for a, b in edges:
-        edgeList[a].append([b, 0])
-        edgeList[b].append([a, 0])
-    # print(edgeList)
+        edgeList[a].append((0, b))
+        edgeList[b].append((0, a))
+    print(edgeList)
     for a, b, cost in edgesToRepair:
-        updateCost(edgeList[a], b, cost)
-        updateCost(edgeList[b], a, cost)
-    # print(edgeList)
+        edgeList[a] = updateCost(edgeList[a], cost, b)
+        edgeList[b] = updateCost(edgeList[b], cost, a)
+    print(edgeList)
     # find shorted spanning graph
     reached = set()
     totalCost = 0
-    queue = list()
-    queue.append([1, 0])
+    pq = queue.PriorityQueue()
+    pq.put((0, 1))
     while len(reached) < n:
-        current = queue.pop(0)
-        currentNode = current[0]
-        cost = current[1]
+        current = pq.get()
+        currentNode = current[1]
+        cost = current[0]
         if currentNode not in reached:
             reached.add(currentNode)
             totalCost += cost
-            queue.extend(edgeList[currentNode])
-            queue.sort(key=lambda pair: pair[1])
+            for neighbor in edgeList[currentNode]:
+                pq.put(neighbor)
     return totalCost
 
 
