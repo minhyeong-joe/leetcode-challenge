@@ -63,6 +63,7 @@ Languages used: Java and Python
 - [Longest Increasing Subsequence](DynamicProgramming/LongestIncreasingSubsequence)
 - [Longest Palindromic Substring](DynamicProgramming/LongestPalindromicSubstring)
 - [Maximum Length Pair Chain](DynamicProgramming/MaximumLengthPairChain)
+- [Max with Min Altitudes](DynamicProgramming/MaxWithMinAltitudes)
 - [Number Of Islands](DynamicProgramming/NumberOfIslands)
 - [Palindromic Substrings](DynamicProgramming/PalindromicSubstrings)
 - [Predict Winner](DynamicProgramming/PredictWinner)
