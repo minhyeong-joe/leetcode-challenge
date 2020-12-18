@@ -86,6 +86,7 @@ Languages used: Java and Python
 
 - [Assign Cookies](Greedy/AssignCookies)
 - [Car Pooling](Greedy/CarPooling)
+- [Fractional Knapsack](Greedy/FractionalKnapsack)
 - [Maximize Sum after K Negations](Greedy/MaximizeSumAfterKNegations)
 - [Maximum Score Words](Greedy/MaximumScoreWords)
 - [Score After Flipping Matrix](Greedy/ScoreAfterFlippingMatrix)
