@@ -148,3 +148,4 @@ Languages used: Java and Python
 
 - [Apply Discount Every N Orders](Others/ApplyDiscountEveryNOrders)
 - [Design Browser History](Others/DesignBrowserHistory)
+- [Favorite Genres](Others/FavoriteGenres)
