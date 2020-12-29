@@ -115,6 +115,7 @@ Languages used: Java and Python
 - [Permutations](Recursion/Permutations)
 - [Permutations II](Recursion/Permutations2)
 - [Permutation Sequence](Recursion/PermutationSequence)
+- [Treasure Island II](Recursion/TreasureIsland2)
 
 ### [Stack](./Stack)
 
