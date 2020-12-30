@@ -48,6 +48,7 @@ Languages used: Java and Python
 - [Subarray Sum Equals K](Array/SubarraySumEqualsK)
 - [Sum Of Even Numbers After Queries](Array/SumOfEvenNumbersAfterQueries)
 - [Third Maximum Number](Array/ThirdMaximumNumber)
+- [Two Sum - Unique Pairs](Array/TwoSumUniquePairs)
 
 ### [Bit Manipulation](./BitManipulation)
 
