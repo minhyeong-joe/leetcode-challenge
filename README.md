@@ -78,6 +78,7 @@ Languages used: Java and Python
 
 - [All Paths From Src To Target](Graph/AllPathsFromSrcToTarget)
 - [Course Schedule II](Graph/CourseSchedule2)
+- [Critical Routers](Graph/CriticalRouters)
 - [Escape Large Maze](Graph/EscapeLargeMaze)
 - [Minimum Cost to Repair Edges](Graph/MinCostToRepairEdges)
 - [Number to Make Network Connected](Graph/NumToMakeNetworkConnected)
