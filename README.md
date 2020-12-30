@@ -128,6 +128,7 @@ Languages used: Java and Python
 
 ### [String](./String)
 
+- [Divisibility of Strings](String/DivisibilityOfStrings)
 - [Isomorphic Strings](String/IsomorphicStrings)
 - [Longest Common Prefix](String/LongestCommonPrefix)
 - [Minimum Steps to Make Two Strings Anagram](String/MinStepsToMakeTwoStringsAnagram)
