@@ -130,6 +130,7 @@ Languages used: Java and Python
 - [Longest Common Prefix](String/LongestCommonPrefix)
 - [Minimum Steps to Make Two Strings Anagram](String/MinStepsToMakeTwoStringsAnagram)
 - [Rearrange Words in Sentence](String/RearrangeWordsInSentence)
+- [Search Suggestions System](String/SearchSuggestionsSystem)
 - [String Matching in Array](String/StringMatchingInArray)
 - [Substring with Exactly K Distinct Characters](String/SubstrWithExactKDistinctChars)
 
