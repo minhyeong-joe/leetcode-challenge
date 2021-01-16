@@ -59,6 +59,7 @@ Languages used: Java and Python
 ### [Dynamic Programming](./DynamicProgramming)
 
 - [Climbing Stairs](DynamicProgramming/ClimbingStairs)
+- [Coin Change](DynamicProgramming/CoinChange)
 - [Count Square With Ones](DynamicProgramming/CountSquareWithOnes)
 - [House Robber](DynamicProgramming/HouseRobber)
 - [Longest Increasing Subsequence](DynamicProgramming/LongestIncreasingSubsequence)
